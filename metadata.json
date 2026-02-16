@@ -1,0 +1,8 @@
+{
+  "name": "Y&E MOTO CREW",
+  "description": "A premium motorcycle club membership management system and social map application for the modern rider.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
